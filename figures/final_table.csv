@@ -1,0 +1,6 @@
+Version,Accuracy,Precision,Recall,F1
+Dummy (most_frequent),0.691,0.0,0.0,0.0
+V1 Baseline RF,0.78,0.69,0.526,0.597
+V2 + new features,0.772,0.656,0.553,0.6
+V3 + class_weight='balanced',0.748,0.6,0.553,0.575
+V4 Final (threshold 0.4),0.691,0.5,0.658,0.568
