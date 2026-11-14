@@ -1,5 +1,7 @@
 # Loan Rejection Classifier – Improving a Model on a Rare Class
 
+**Author:** Moiz Mukhtar
+
 ## Dataset
 - **Name:** Loan Prediction Problem Dataset (training file, 614 rows × 13 columns)
 - **Source:** Kaggle – https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
